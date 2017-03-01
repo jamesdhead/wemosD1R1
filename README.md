@@ -13,7 +13,7 @@ For the best, and simplest 16X2 with I2C Backpack tutorial, check out this post:
   
   "[SOLVED] I2C LCD - Setup instructions for 16x2" ==> http://forum.arduino.cc/index.php?topic=128635.0
   
-  
+MQTT MUST HAVE LIBRARIES:  https://github.com/knolleary/pubsubclient/releases/tag/v2.6  
   
 Current Projects:
  Proton Pack- Arduino Powered Ghostbusters replica for my four-year old.
